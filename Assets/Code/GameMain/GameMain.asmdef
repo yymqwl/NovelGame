@@ -1,0 +1,13 @@
+{
+    "name": "GameMain",
+    "references": [
+        "EasyTouch",
+        "GameFramework",
+        "Cinemachine",
+        "spine"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

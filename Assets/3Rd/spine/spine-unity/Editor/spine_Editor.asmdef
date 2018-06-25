@@ -1,0 +1,12 @@
+{
+    "name": "spine_Editor",
+    "references": [
+        "spine"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

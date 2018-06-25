@@ -1,0 +1,13 @@
+*.meta
+AB
+/
+*.csproj
+.vs/
+Library/
+ProjectSettings/
+obj/
+Export/
+PersistentPath/
+Gjxx/
+Temp/
+Assets/3Rd/UnityEngine.AssetGraph/Cache

@@ -1,0 +1,1 @@
+"D:\worksoft\Unity2018\Editor\Unity.exe" -batchmode -quit -projectPath "D:\UnityProject\NovelGame/" -logFile abbuild.log -executeMethod UnityEngine.AssetGraph.CUIUtility.BuildFromCommandline %1 %2 %3 %4 %5 %6 %7 %8 %9

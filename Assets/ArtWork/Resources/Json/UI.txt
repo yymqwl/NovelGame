@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "uitype": "MainMenu_Window",
+    "assetid": "1001"
+  },
+  {
+    "id": "2",
+    "uitype": "Dialog_Window",
+    "assetid": "1002"
+  },
+  {
+    "id": "3",
+    "uitype": "SelectChapter_Window",
+    "assetid": "1003"
+  },
+  {
+    "id": "4",
+    "uitype": "Setting_Window",
+    "assetid": "1004"
+  },
+  {
+    "id": "5",
+    "uitype": "Logic_Combine_Window",
+    "assetid": "1005"
+  },
+  {
+    "id": "6",
+    "uitype": "Bracelet_Window",
+    "assetid": "1006"
+  },
+  {
+    "id": "7",
+    "uitype": "Record_Window",
+    "assetid": "1007"
+  },
+  {
+    "id": "8",
+    "uitype": "TakeAPic_Window",
+    "assetid": "1008"
+  },
+  {
+    "id": "9",
+    "uitype": "Evidence_Window",
+    "assetid": "1009"
+  },
+  {
+    "id": "10",
+    "uitype": "MailList_Window",
+    "assetid": "1010"
+  },
+  {
+    "id": "11",
+    "uitype": "CircleOfFriend_Window",
+    "assetid": "1011"
+  },
+  {
+    "id": "12",
+    "uitype": "Testimony_Window",
+    "assetid": "1012"
+  }
+]

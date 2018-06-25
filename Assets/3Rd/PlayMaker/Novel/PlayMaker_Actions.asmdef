@@ -1,0 +1,12 @@
+{
+    "name": "PlayMaker_Actions",
+    "references": [
+        "GameMain",
+        "spine",
+        "GameFramework"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

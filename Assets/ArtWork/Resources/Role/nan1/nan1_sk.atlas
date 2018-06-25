@@ -1,0 +1,53 @@
+
+nan1_sk.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanzhu1
+  rotate: false
+  xy: 405, 0
+  size: 405, 971
+  orig: 405, 971
+  offset: 0, 0
+  index: -1
+nanzhu5
+  rotate: false
+  xy: 0, 0
+  size: 405, 971
+  orig: 405, 971
+  offset: 0, 0
+  index: -1
+
+nan1_sk2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanzhu2
+  rotate: false
+  xy: 0, 0
+  size: 405, 971
+  orig: 405, 971
+  offset: 0, 0
+  index: -1
+nanzhu3
+  rotate: false
+  xy: 405, 0
+  size: 405, 971
+  orig: 405, 971
+  offset: 0, 0
+  index: -1
+
+nan1_sk3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanzhu4
+  rotate: false
+  xy: 0, 0
+  size: 405, 971
+  orig: 405, 971
+  offset: 0, 0
+  index: -1

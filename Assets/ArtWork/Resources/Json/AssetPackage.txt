@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1000",
+    "AssetBundleName": "ui",
+    "AssetName": "Test2_Window",
+    "ResourceName": "Prefab/UI/Test2_Window",
+    "des": "ui2"
+  },
+  {
+    "id": "1001",
+    "AssetBundleName": "ui",
+    "AssetName": "MainMenu_Window",
+    "ResourceName": "Prefab/UI/MainMenu_Window",
+    "des": ""
+  },
+  {
+    "id": "1002",
+    "AssetBundleName": "ui",
+    "AssetName": "Dialog_Window",
+    "ResourceName": "Prefab/UI/Dialog_Window",
+    "des": "对话"
+  },
+  {
+    "id": "1003",
+    "AssetBundleName": "ui",
+    "AssetName": "SelectChapter_Window",
+    "ResourceName": "Prefab/UI/SelectChapter_Window",
+    "des": "选择章节"
+  },
+  {
+    "id": "1004",
+    "AssetBundleName": "ui",
+    "AssetName": "Setting_Window",
+    "ResourceName": "Prefab/UI/Setting_Window",
+    "des": "设置"
+  },
+  {
+    "id": "1005",
+    "AssetBundleName": "ui",
+    "AssetName": "Logic_Combine_Window",
+    "ResourceName": "Prefab/UI/Logic_Combine_Window",
+    "des": "逻辑整合"
+  },
+  {
+    "id": "1006",
+    "AssetBundleName": "ui",
+    "AssetName": "Bracelet_Window",
+    "ResourceName": "Prefab/UI/Bracelet_Window",
+    "des": "手环"
+  },
+  {
+    "id": "1007",
+    "AssetBundleName": "ui",
+    "AssetName": "Record_Window",
+    "ResourceName": "Prefab/UI/Record_Window",
+    "des": "存档"
+  },
+  {
+    "id": "1008",
+    "AssetBundleName": "ui",
+    "AssetName": "TakeAPic_Window",
+    "ResourceName": "Prefab/UI/TakeAPic_Window",
+    "des": "照相"
+  },
+  {
+    "id": "1009",
+    "AssetBundleName": "ui",
+    "AssetName": "Evidence_Window",
+    "ResourceName": "Prefab/UI/Evidence_Window",
+    "des": "证物"
+  },
+  {
+    "id": "1010",
+    "AssetBundleName": "ui",
+    "AssetName": "MailList_Window",
+    "ResourceName": "Prefab/UI/MailList_Window",
+    "des": "通讯录"
+  },
+  {
+    "id": "1011",
+    "AssetBundleName": "ui",
+    "AssetName": "CircleOfFriend_Window",
+    "ResourceName": "Prefab/UI/CircleOfFriend_Window",
+    "des": "朋友圈"
+  },
+  {
+    "id": "1012",
+    "AssetBundleName": "ui",
+    "AssetName": "Testimony_Window",
+    "ResourceName": "Prefab/UI/Testimony_Window",
+    "des": "证词"
+  },
+  {
+    "id": "2000",
+    "AssetBundleName": "json",
+    "AssetName": "Dialog",
+    "ResourceName": "Json/Dialog",
+    "des": "对话"
+  },
+  {
+    "id": "2001",
+    "AssetBundleName": "json",
+    "AssetName": "UI",
+    "ResourceName": "Json/UI",
+    "des": "UI"
+  },
+  {
+    "id": "2002",
+    "AssetBundleName": "json",
+    "AssetName": "Text",
+    "ResourceName": "Json/Text",
+    "des": "text"
+  },
+  {
+    "id": "2003",
+    "AssetBundleName": "json",
+    "AssetName": "Role_Expression",
+    "ResourceName": "Json/Role_Expression",
+    "des": "角色表情"
+  },
+  {
+    "id": "2004",
+    "AssetBundleName": "json",
+    "AssetName": "Role",
+    "ResourceName": "Json/Role",
+    "des": "角色"
+  },
+  {
+    "id": "2005",
+    "AssetBundleName": "json",
+    "AssetName": "Item_Pack",
+    "ResourceName": "Json/Item_Pack",
+    "des": "物品"
+  },
+  {
+    "id": "2006",
+    "AssetBundleName": "json",
+    "AssetName": "CircleOfFriend",
+    "ResourceName": "Json/CircleOfFriend",
+    "des": "朋友圈"
+  },
+  {
+    "id": "3000",
+    "AssetBundleName": "scene",
+    "AssetName": "MainMenuScene",
+    "ResourceName": "Prefab/Scene/MainMenuScene",
+    "des": ""
+  },
+  {
+    "id": "3001",
+    "AssetBundleName": "scene",
+    "AssetName": "UIManager",
+    "ResourceName": "Prefab/Scene/UIManager",
+    "des": ""
+  },
+  {
+    "id": "3002",
+    "AssetBundleName": "scene",
+    "AssetName": "Back_Ground1",
+    "ResourceName": "Prefab/Scene/Back_Ground1",
+    "des": ""
+  },
+  {
+    "id": "3003",
+    "AssetBundleName": "scene",
+    "AssetName": "GameScene",
+    "ResourceName": "Prefab/Scene/GameScene",
+    "des": ""
+  },
+  {
+    "id": "4000",
+    "AssetBundleName": "bt",
+    "AssetName": "PM_1_1",
+    "ResourceName": "BT/PM_1_1",
+    "des": "1_1章节"
+  },
+  {
+    "id": "4001",
+    "AssetBundleName": "bt",
+    "AssetName": "PM_1_2",
+    "ResourceName": "BT/PM_1_2",
+    "des": "1_2章节"
+  },
+  {
+    "id": "5000",
+    "AssetBundleName": "role",
+    "AssetName": "nan1_pb",
+    "ResourceName": "Role/nan1/nan1_pb",
+    "des": "男1"
+  },
+  {
+    "id": "5001",
+    "AssetBundleName": "role",
+    "AssetName": "nv1_pb",
+    "ResourceName": "Role/nv1/nv1_pb",
+    "des": "女1"
+  },
+  {
+    "id": "5002",
+    "AssetBundleName": "role",
+    "AssetName": "nan2_pb",
+    "ResourceName": "Role/nan2/nan2_pb",
+    "des": "男2"
+  },
+  {
+    "id": "5003",
+    "AssetBundleName": "role",
+    "AssetName": "nv2_pb",
+    "ResourceName": "Role/nv2/nv2_pb",
+    "des": "女2"
+  },
+  {
+    "id": "6000",
+    "AssetBundleName": "backpack",
+    "AssetName": "upg_helmet",
+    "ResourceName": "BackPack/upg_helmet",
+    "des": "头盔"
+  },
+  {
+    "id": "6001",
+    "AssetBundleName": "backpack",
+    "AssetName": "upg_shield",
+    "ResourceName": "BackPack/upg_shield",
+    "des": "盾牌"
+  },
+  {
+    "id": "6002",
+    "AssetBundleName": "backpack",
+    "AssetName": "woodSword",
+    "ResourceName": "BackPack/woodSword",
+    "des": "剑"
+  },
+  {
+    "id": "7000",
+    "AssetBundleName": "common",
+    "AssetName": "Line",
+    "ResourceName": "Prefab/Common/Line",
+    "des": "线"
+  },
+  {
+    "id": "7001",
+    "AssetBundleName": "common",
+    "AssetName": "NovelRoleAsset",
+    "ResourceName": "Prefab/Common/NovelRoleAsset",
+    "des": "主角位置资源"
+  },
+  {
+    "id": "7002",
+    "AssetBundleName": "common",
+    "AssetName": "cof_1",
+    "ResourceName": "Common/cof_1",
+    "des": "黄车"
+  },
+  {
+    "id": "7003",
+    "AssetBundleName": "common",
+    "AssetName": "cof_2",
+    "ResourceName": "Common/cof_2",
+    "des": "美女"
+  },
+  {
+    "id": "8000",
+    "AssetBundleName": "photoevidence",
+    "AssetName": "photo1",
+    "ResourceName": "Prefab/PhotoEvidence/photo1",
+    "des": "证物"
+  },
+  {
+    "id": "8001",
+    "AssetBundleName": "photoevidence",
+    "AssetName": "LogicAsset",
+    "ResourceName": "Prefab/PhotoEvidence/LogicAsset",
+    "des": "逻辑整合"
+  },
+  {
+    "id": "9000",
+    "AssetBundleName": "audio",
+    "AssetName": "CKZ",
+    "ResourceName": "Audio/CKZ",
+    "des": "背景音乐"
+  },
+  {
+    "id": "9001",
+    "AssetBundleName": "audio",
+    "AssetName": "Clue",
+    "ResourceName": "Audio/Clue",
+    "des": "音效1"
+  },
+  {
+    "id": "9002",
+    "AssetBundleName": "audio",
+    "AssetName": "Confused",
+    "ResourceName": "Audio/Confused",
+    "des": "音效2"
+  },
+  {
+    "id": "9003",
+    "AssetBundleName": "audio",
+    "AssetName": "VO1",
+    "ResourceName": "Audio/VO1",
+    "des": "对话1"
+  },
+  {
+    "id": "9004",
+    "AssetBundleName": "audio",
+    "AssetName": "VO2",
+    "ResourceName": "Audio/VO2",
+    "des": "对话2"
+  },
+  {
+    "id": "9005",
+    "AssetBundleName": "audio",
+    "AssetName": "VO3",
+    "ResourceName": "Audio/VO3",
+    "des": "对话3"
+  }
+]
